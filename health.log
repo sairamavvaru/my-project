@@ -1,0 +1,492 @@
+[2025-10-31T12:34:02.501Z] Timeout after 3 seconds
+[2025-10-31T12:34:02.508Z] Error: socket hang up
+[2025-10-31T12:34:12.493Z] Timeout after 3 seconds
+[2025-10-31T12:34:12.516Z] Error: socket hang up
+[2025-10-31T12:34:12.528Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:34:22.491Z] Timeout after 3 seconds
+[2025-10-31T12:34:22.494Z] Error: socket hang up
+[2025-10-31T12:34:22.514Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:34:32.505Z] Timeout after 3 seconds
+[2025-10-31T12:34:32.506Z] Error: socket hang up
+[2025-10-31T12:34:42.497Z] Timeout after 3 seconds
+[2025-10-31T12:34:42.502Z] Error: socket hang up
+[2025-10-31T12:34:42.511Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:34:52.509Z] Timeout after 3 seconds
+[2025-10-31T12:34:52.510Z] Error: socket hang up
+[2025-10-31T12:34:52.526Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:35:02.506Z] Timeout after 3 seconds
+[2025-10-31T12:35:02.507Z] Error: socket hang up
+[2025-10-31T12:35:12.515Z] Timeout after 3 seconds
+[2025-10-31T12:35:12.525Z] Error: socket hang up
+[2025-10-31T12:35:12.536Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:35:22.532Z] Timeout after 3 seconds
+[2025-10-31T12:35:22.534Z] Error: socket hang up
+[2025-10-31T12:35:22.560Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:35:32.561Z] Timeout after 3 seconds
+[2025-10-31T12:35:32.563Z] Error: socket hang up
+[2025-10-31T12:35:42.557Z] Timeout after 3 seconds
+[2025-10-31T12:35:42.567Z] Error: socket hang up
+[2025-10-31T12:35:42.582Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:35:52.552Z] Timeout after 3 seconds
+[2025-10-31T12:35:52.553Z] Error: socket hang up
+[2025-10-31T12:35:52.578Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:36:02.573Z] Timeout after 3 seconds
+[2025-10-31T12:36:02.606Z] Error: socket hang up
+[2025-10-31T12:36:12.564Z] Timeout after 3 seconds
+[2025-10-31T12:36:12.573Z] Error: socket hang up
+[2025-10-31T12:36:12.589Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:36:22.566Z] Timeout after 3 seconds
+[2025-10-31T12:36:22.567Z] Error: socket hang up
+[2025-10-31T12:36:22.582Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:36:32.569Z] Timeout after 3 seconds
+[2025-10-31T12:36:32.570Z] Error: socket hang up
+[2025-10-31T12:36:42.566Z] Timeout after 3 seconds
+[2025-10-31T12:36:42.573Z] Error: socket hang up
+[2025-10-31T12:36:42.583Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:36:52.588Z] Timeout after 3 seconds
+[2025-10-31T12:36:52.590Z] Error: socket hang up
+[2025-10-31T12:36:52.614Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:37:02.592Z] Timeout after 3 seconds
+[2025-10-31T12:37:02.594Z] Error: socket hang up
+[2025-10-31T12:37:12.619Z] Timeout after 3 seconds
+[2025-10-31T12:37:12.629Z] Error: socket hang up
+[2025-10-31T12:37:12.650Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:37:22.628Z] Timeout after 3 seconds
+[2025-10-31T12:37:22.630Z] Error: socket hang up
+[2025-10-31T12:37:22.655Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:37:32.637Z] Timeout after 3 seconds
+[2025-10-31T12:37:32.639Z] Error: socket hang up
+[2025-10-31T12:37:42.658Z] Timeout after 3 seconds
+[2025-10-31T12:37:42.668Z] Error: socket hang up
+[2025-10-31T12:37:42.686Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:37:52.674Z] Timeout after 3 seconds
+[2025-10-31T12:37:52.676Z] Error: socket hang up
+[2025-10-31T12:37:52.701Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:38:02.680Z] Timeout after 3 seconds
+[2025-10-31T12:38:02.681Z] Error: socket hang up
+[2025-10-31T12:38:12.691Z] Timeout after 3 seconds
+[2025-10-31T12:38:12.699Z] Error: socket hang up
+[2025-10-31T12:38:12.716Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:38:22.715Z] Timeout after 3 seconds
+[2025-10-31T12:38:22.719Z] Error: socket hang up
+[2025-10-31T12:38:22.743Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:38:32.713Z] Timeout after 3 seconds
+[2025-10-31T12:38:32.714Z] Error: socket hang up
+[2025-10-31T12:38:42.725Z] Timeout after 3 seconds
+[2025-10-31T12:38:42.736Z] Error: socket hang up
+[2025-10-31T12:38:42.755Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:38:52.740Z] Timeout after 3 seconds
+[2025-10-31T12:38:52.741Z] Error: socket hang up
+[2025-10-31T12:38:52.759Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:39:02.744Z] Timeout after 3 seconds
+[2025-10-31T12:39:02.745Z] Error: socket hang up
+[2025-10-31T12:39:12.756Z] Timeout after 3 seconds
+[2025-10-31T12:39:12.763Z] Error: socket hang up
+[2025-10-31T12:39:12.773Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:39:22.771Z] Timeout after 3 seconds
+[2025-10-31T12:39:22.772Z] Error: socket hang up
+[2025-10-31T12:39:22.795Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:39:32.789Z] Timeout after 3 seconds
+[2025-10-31T12:39:32.791Z] Error: socket hang up
+[2025-10-31T12:39:42.780Z] Timeout after 3 seconds
+[2025-10-31T12:39:42.789Z] Error: socket hang up
+[2025-10-31T12:39:42.804Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:39:52.819Z] Timeout after 3 seconds
+[2025-10-31T12:39:52.820Z] Error: socket hang up
+[2025-10-31T12:39:52.849Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:40:02.818Z] Timeout after 3 seconds
+[2025-10-31T12:40:02.819Z] Error: socket hang up
+[2025-10-31T12:40:12.834Z] Timeout after 3 seconds
+[2025-10-31T12:40:12.845Z] Error: socket hang up
+[2025-10-31T12:40:12.865Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:40:22.850Z] Timeout after 3 seconds
+[2025-10-31T12:40:22.852Z] Error: socket hang up
+[2025-10-31T12:40:22.878Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:40:32.867Z] Timeout after 3 seconds
+[2025-10-31T12:40:32.868Z] Error: socket hang up
+[2025-10-31T12:40:42.867Z] Timeout after 3 seconds
+[2025-10-31T12:40:42.875Z] Error: socket hang up
+[2025-10-31T12:40:42.888Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:40:52.871Z] Timeout after 3 seconds
+[2025-10-31T12:40:52.873Z] Error: socket hang up
+[2025-10-31T12:40:52.900Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:41:02.868Z] Timeout after 3 seconds
+[2025-10-31T12:41:02.870Z] Error: socket hang up
+[2025-10-31T12:41:12.879Z] Timeout after 3 seconds
+[2025-10-31T12:41:12.888Z] Error: socket hang up
+[2025-10-31T12:41:12.909Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:41:22.908Z] Timeout after 3 seconds
+[2025-10-31T12:41:22.909Z] Error: socket hang up
+[2025-10-31T12:41:22.956Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:41:32.869Z] Timeout after 3 seconds
+[2025-10-31T12:41:32.870Z] Error: socket hang up
+[2025-10-31T12:41:42.882Z] Timeout after 3 seconds
+[2025-10-31T12:41:42.890Z] Error: socket hang up
+[2025-10-31T12:41:42.903Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:41:52.881Z] Timeout after 3 seconds
+[2025-10-31T12:41:52.882Z] Error: socket hang up
+[2025-10-31T12:41:52.912Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:42:02.897Z] Timeout after 3 seconds
+[2025-10-31T12:42:02.898Z] Error: socket hang up
+[2025-10-31T12:42:12.911Z] Timeout after 3 seconds
+[2025-10-31T12:42:12.920Z] Error: socket hang up
+[2025-10-31T12:42:12.940Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:42:22.943Z] Timeout after 3 seconds
+[2025-10-31T12:42:22.947Z] Error: socket hang up
+[2025-10-31T12:42:22.966Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:42:32.939Z] Timeout after 3 seconds
+[2025-10-31T12:42:32.941Z] Error: socket hang up
+[2025-10-31T12:42:42.951Z] Timeout after 3 seconds
+[2025-10-31T12:42:42.962Z] Error: socket hang up
+[2025-10-31T12:42:42.980Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:42:52.958Z] Timeout after 3 seconds
+[2025-10-31T12:42:52.960Z] Error: socket hang up
+[2025-10-31T12:42:52.980Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:43:02.970Z] Timeout after 3 seconds
+[2025-10-31T12:43:02.973Z] Error: socket hang up
+[2025-10-31T12:43:12.986Z] Timeout after 3 seconds
+[2025-10-31T12:43:12.996Z] Error: socket hang up
+[2025-10-31T12:43:13.038Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:43:22.996Z] Timeout after 3 seconds
+[2025-10-31T12:43:22.998Z] Error: socket hang up
+[2025-10-31T12:43:23.030Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:43:33.004Z] Timeout after 3 seconds
+[2025-10-31T12:43:33.005Z] Error: socket hang up
+[2025-10-31T12:43:43.027Z] Timeout after 3 seconds
+[2025-10-31T12:43:43.034Z] Error: socket hang up
+[2025-10-31T12:43:43.049Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:43:53.017Z] Timeout after 3 seconds
+[2025-10-31T12:43:53.018Z] Error: socket hang up
+[2025-10-31T12:43:53.037Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:44:03.017Z] Timeout after 3 seconds
+[2025-10-31T12:44:03.018Z] Error: socket hang up
+[2025-10-31T12:44:13.035Z] Timeout after 3 seconds
+[2025-10-31T12:44:13.041Z] Error: socket hang up
+[2025-10-31T12:44:13.057Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:44:23.038Z] Timeout after 3 seconds
+[2025-10-31T12:44:23.041Z] Error: socket hang up
+[2025-10-31T12:44:23.063Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:44:33.052Z] Timeout after 3 seconds
+[2025-10-31T12:44:33.054Z] Error: socket hang up
+[2025-10-31T12:44:43.054Z] Timeout after 3 seconds
+[2025-10-31T12:44:43.062Z] Error: socket hang up
+[2025-10-31T12:44:43.081Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:44:53.065Z] Timeout after 3 seconds
+[2025-10-31T12:44:53.067Z] Error: socket hang up
+[2025-10-31T12:44:53.099Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:45:03.074Z] Timeout after 3 seconds
+[2025-10-31T12:45:03.075Z] Error: socket hang up
+[2025-10-31T12:45:13.078Z] Timeout after 3 seconds
+[2025-10-31T12:45:13.092Z] Error: socket hang up
+[2025-10-31T12:45:13.117Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:45:23.084Z] Timeout after 3 seconds
+[2025-10-31T12:45:23.086Z] Error: socket hang up
+[2025-10-31T12:45:23.116Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:45:33.098Z] Timeout after 3 seconds
+[2025-10-31T12:45:33.101Z] Error: socket hang up
+[2025-10-31T12:45:43.105Z] Timeout after 3 seconds
+[2025-10-31T12:45:43.111Z] Error: socket hang up
+[2025-10-31T12:45:43.123Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:45:53.114Z] Timeout after 3 seconds
+[2025-10-31T12:45:53.115Z] Error: socket hang up
+[2025-10-31T12:45:53.138Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:46:03.105Z] Timeout after 3 seconds
+[2025-10-31T12:46:03.107Z] Error: socket hang up
+[2025-10-31T12:46:13.114Z] Timeout after 3 seconds
+[2025-10-31T12:46:13.125Z] Error: socket hang up
+[2025-10-31T12:46:13.141Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:46:23.116Z] Timeout after 3 seconds
+[2025-10-31T12:46:23.118Z] Error: socket hang up
+[2025-10-31T12:46:23.148Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:46:33.125Z] Timeout after 3 seconds
+[2025-10-31T12:46:33.128Z] Error: socket hang up
+[2025-10-31T12:46:43.137Z] Timeout after 3 seconds
+[2025-10-31T12:46:43.147Z] Error: socket hang up
+[2025-10-31T12:46:43.167Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:46:53.127Z] Timeout after 3 seconds
+[2025-10-31T12:46:53.129Z] Error: socket hang up
+[2025-10-31T12:46:53.153Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:47:03.153Z] Timeout after 3 seconds
+[2025-10-31T12:47:03.154Z] Error: socket hang up
+[2025-10-31T12:47:13.145Z] Timeout after 3 seconds
+[2025-10-31T12:47:13.154Z] Error: socket hang up
+[2025-10-31T12:47:13.174Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:47:23.157Z] Timeout after 3 seconds
+[2025-10-31T12:47:23.158Z] Error: socket hang up
+[2025-10-31T12:47:23.180Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:47:33.168Z] Timeout after 3 seconds
+[2025-10-31T12:47:33.169Z] Error: socket hang up
+[2025-10-31T12:47:43.184Z] Timeout after 3 seconds
+[2025-10-31T12:47:43.194Z] Error: socket hang up
+[2025-10-31T12:47:43.214Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:47:53.196Z] Timeout after 3 seconds
+[2025-10-31T12:47:53.197Z] Error: socket hang up
+[2025-10-31T12:47:53.227Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:48:03.204Z] Timeout after 3 seconds
+[2025-10-31T12:48:03.205Z] Error: socket hang up
+[2025-10-31T12:48:13.209Z] Timeout after 3 seconds
+[2025-10-31T12:48:13.225Z] Error: socket hang up
+[2025-10-31T12:48:13.241Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:48:23.215Z] Timeout after 3 seconds
+[2025-10-31T12:48:23.217Z] Error: socket hang up
+[2025-10-31T12:48:23.254Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:48:33.340Z] Timeout after 3 seconds
+[2025-10-31T12:48:33.342Z] Error: socket hang up
+[2025-10-31T12:48:43.349Z] Timeout after 3 seconds
+[2025-10-31T12:48:43.358Z] Error: socket hang up
+[2025-10-31T12:48:43.387Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:48:53.342Z] Timeout after 3 seconds
+[2025-10-31T12:48:53.344Z] Error: socket hang up
+[2025-10-31T12:48:53.368Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:49:03.364Z] Timeout after 3 seconds
+[2025-10-31T12:49:03.365Z] Error: socket hang up
+[2025-10-31T12:49:13.374Z] Timeout after 3 seconds
+[2025-10-31T12:49:13.384Z] Error: socket hang up
+[2025-10-31T12:49:13.399Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:49:23.379Z] Timeout after 3 seconds
+[2025-10-31T12:49:23.381Z] Error: socket hang up
+[2025-10-31T12:49:23.399Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:49:33.382Z] Timeout after 3 seconds
+[2025-10-31T12:49:33.383Z] Error: socket hang up
+[2025-10-31T12:49:43.391Z] Timeout after 3 seconds
+[2025-10-31T12:49:43.402Z] Error: socket hang up
+[2025-10-31T12:49:43.419Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:49:53.400Z] Timeout after 3 seconds
+[2025-10-31T12:49:53.404Z] Error: socket hang up
+[2025-10-31T12:49:53.433Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:50:03.405Z] Timeout after 3 seconds
+[2025-10-31T12:50:03.406Z] Error: socket hang up
+[2025-10-31T12:50:13.408Z] Timeout after 3 seconds
+[2025-10-31T12:50:13.416Z] Error: socket hang up
+[2025-10-31T12:50:13.435Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:50:23.402Z] Timeout after 3 seconds
+[2025-10-31T12:50:23.404Z] Error: socket hang up
+[2025-10-31T12:50:23.431Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:50:33.422Z] Timeout after 3 seconds
+[2025-10-31T12:50:33.423Z] Error: socket hang up
+[2025-10-31T12:50:43.427Z] Timeout after 3 seconds
+[2025-10-31T12:50:43.438Z] Error: socket hang up
+[2025-10-31T12:50:43.463Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:50:53.432Z] Timeout after 3 seconds
+[2025-10-31T12:50:53.435Z] Error: socket hang up
+[2025-10-31T12:50:53.468Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:51:03.444Z] Timeout after 3 seconds
+[2025-10-31T12:51:03.445Z] Error: socket hang up
+[2025-10-31T12:51:13.448Z] Timeout after 3 seconds
+[2025-10-31T12:51:13.458Z] Error: socket hang up
+[2025-10-31T12:51:13.479Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:51:23.459Z] Timeout after 3 seconds
+[2025-10-31T12:51:23.461Z] Error: socket hang up
+[2025-10-31T12:51:23.486Z] Restart error: Command failed: systemctl restart myapp
+'systemctl' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2025-10-31T12:51:33.466Z] Timeout after 3 seconds
+[2025-10-31T12:51:33.467Z] Error: socket hang up
